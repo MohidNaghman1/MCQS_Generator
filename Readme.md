@@ -40,14 +40,24 @@ You can download the MCQs as .txt or .pdf!
 ## 📂 Project Structure
 
 /MCQS-generator-flask-app               # Root directory
+
     /uploads                           # Folder to store uploaded files
+    
     /results                           # Folder to store generated MCQs
+    
     /templates                         # HTML templates for rendering pages
+    
         index.html                     # Main page with upload form
+        
         results.html                   # Page to display results and d
+        
     app.py                              # Main Flask application file
+
+    
     requirements.txt                    # Python dependencies file
+
     .env                                # Environment variables (keep secret API keys, etc.)
+    
     README.md                           # Project documentation (this file)
 
 
