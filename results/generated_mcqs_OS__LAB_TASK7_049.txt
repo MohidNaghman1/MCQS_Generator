@@ -1,0 +1,40 @@
+## MCQ 1
+Question: What is the objective of Assignment No: 07 in the OS LAB?
+A) To write a complex C++ program.
+B) To learn basic shell commands and redirection.
+C) To install a new Linux distribution.
+D) To create a user interface.
+Correct Answer: B
+
+## MCQ 2
+Question: Which command is used to print a message to the terminal in the given assignment?
+A) printf
+B) print
+C) echo
+D) display
+Correct Answer: C
+
+## MCQ 3
+Question: How can a multi-line message be printed using the `echo` command?
+A) By using the `-m` flag.
+B) By using the `\n` escape sequence.
+C) By using the `\t` escape sequence.
+D) By using multiple echo commands.
+Correct Answer: B
+
+## MCQ 4
+Question: How can the newline character be suppressed when printing with `echo`?
+A) By using the `-n` flag.
+B) By using the `\r` escape sequence.
+C) By using the `\0` escape sequence.
+D) By redirecting the output to /dev/null.
+Correct Answer: A
+
+
+## MCQ 5
+Question: How is output redirected to a file named output.txt using the `echo` command?
+A) `echo "text" > output.txt`
+B) `echo "text" >> output.txt`
+C) `echo "text" | output.txt`
+D) `echo "text" < output.txt`
+Correct Answer: A

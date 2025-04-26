@@ -1,0 +1,50 @@
+## MCQ 1
+Question: In Pandas, which method is used to filter rows based on a condition?
+A) `filter()`
+B) `where()`
+C) `loc[]`
+D) `conditional()`
+Correct Answer: C
+
+## MCQ 2
+Question:  Given a Pandas DataFrame `df` with a column "Marks", which code snippet correctly displays rows where "Marks" is greater than 80?
+A) `df[df["Marks"] > 80]`
+B) `df.loc["Marks" > 80]`
+C) `df.filter("Marks" > 80)`
+D) `df.where(df["Marks"] > 80)`
+Correct Answer: A
+
+## MCQ 3
+Question: In a Pandas Series, what does the `mean()` method calculate?
+A) The sum of all values.
+B) The average of all values.
+C) The middle value when sorted.
+D) The most frequent value.
+Correct Answer: B
+
+
+## MCQ 4
+Question:  In NumPy, how do you create a 1-dimensional array named 'arr' with the values [1, 2, 3, 4, 5]?
+A) `arr = np.array(1, 2, 3, 4, 5)`
+B) `arr = np.array([1, 2, 3, 4, 5])`
+C) `arr = np.array((1, 2, 3, 4, 5))`
+D) `arr = np.oneDarray([1, 2, 3, 4, 5])`
+Correct Answer: B
+
+
+## MCQ 5
+Question: What is the time complexity of searching for a value in a balanced Binary Search Tree?
+A) O(n)
+B) O(log n)
+C) O(n log n)
+D) O(1)
+Correct Answer: B
+
+
+## MCQ 6
+Question:  In the context of the exam instructions, what is the consequence of using a mobile phone?
+A) Extra time will be deducted.
+B) Marks will be deducted.
+C) The exam will be canceled.
+D) It is strictly prohibited.
+Correct Answer: D

@@ -1,0 +1,23 @@
+## MCQ 1
+Question: What data structure is used to manage the playlist in the provided code?
+A) Array
+B) Queue
+C) Circular Linked List
+D) Doubly Linked List
+Correct Answer: C
+
+## MCQ 2
+Question: Which library is used for playing audio in the `music_player.py` code?
+A) `os`
+B) `sys`
+C) `pygame`
+D) `audioplayer`
+Correct Answer: C
+
+## MCQ 3
+Question: What happens when the `next_song()` method is called?
+A) The current song is stopped, and the playlist is cleared.
+B) The current song continues playing, and the next song is added to the queue.
+C) The current song is stopped, and the next song in the playlist starts playing.
+D) The current song is paused, and the next song in the playlist is loaded but not played.
+Correct Answer: C
