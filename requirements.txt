@@ -1,0 +1,7 @@
+Flask
+pdfplumber
+python-docx
+Werkzeug
+google-generativeai
+fpdf
+python-dotenv
