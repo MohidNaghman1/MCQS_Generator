@@ -60,6 +60,9 @@ You can download the MCQs as .txt or .pdf!
     
     README.md                           # Project documentation (this file)
 
+![image](https://github.com/user-attachments/assets/6af19927-8949-4615-867a-97a7b234f288)
+
+
 
 # Important Notes
 .env and myenv/ folders should be added to .gitignore to avoid uploading them to GitHub.
