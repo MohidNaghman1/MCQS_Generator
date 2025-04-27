@@ -62,6 +62,7 @@ You can download the MCQs as .txt or .pdf!
 
 ![image](https://github.com/user-attachments/assets/6af19927-8949-4615-867a-97a7b234f288)
 
+![image](https://github.com/user-attachments/assets/7be11251-2178-4322-ab7f-2bd5db51cd93)
 
 
 # Important Notes
